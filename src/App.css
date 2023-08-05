@@ -1,0 +1,152 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+/* Header */
+
+header {
+
+}
+
+header .logo {
+
+}
+
+/* Navigation */
+
+nav {
+
+}
+
+nav ul {
+
+}
+
+nav ul li {
+
+}
+
+
+/* Main */
+
+main {
+
+}
+
+main .content {
+
+}
+
+main .content .content-text {
+
+}
+
+main .content .content-text h2 {
+
+}
+
+main .content .content-text p {
+
+}
+
+main .content .content-text a {
+
+}
+
+main .content .content-text a:hover {
+
+}
+
+main .content .content-text .content-text-image {
+
+}
+
+main .content .content-text .content-text-image img {
+
+}
+
+/* Footer */
+
+footer {
+
+}
+
+footer .footer-content {
+
+}
+
+footer .footer-content .footer-content-text {
+
+}
+
+footer .footer-content .footer-content-text h3 {
+
+}
+
+footer .footer-content .footer-content-text p {
+
+}
+
+footer .footer-content .footer-content-text a {
+
+}
+
+footer .footer-content .footer-content-text a:hover {
+
+}
+
+/* Project */
+
+.card {
+
+}
+
+.card .card-image {
+
+}
+
+.card .card-image img {
+
+}
+
+.card .card-content {
+
+}
+
+.card .card-content h4 {
+
+}
+
+.card .card-content p {
+
+}
+
+.card .card-content a {
+
+}
+
+.card .card-content a:hover {
+
+}
+
+
