@@ -8,6 +8,8 @@ import Footer from "../Footer";
 export default function About() {
     return (
         <div>
+        <Header />
+        <Navigation />
         <h1>About</h1>
         <p>
         Greetings,
@@ -24,6 +26,7 @@ export default function About() {
 
         LC Sewell
         </p>
+        <Footer />
         </div>
     );
 }
