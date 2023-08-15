@@ -7,6 +7,8 @@ import React from "react";
 export default function Contact() {
     return (
         <div>
+             <Header />
+            <Navigation />
         <h1>Contact</h1>
         <form className="contact-form" action="submit">
             <label for="fname">First Name</label>
@@ -23,6 +25,7 @@ export default function Contact() {
             <textarea id="message" name="message" placeholder="Write something.."></textarea>
             <input type="submit" value="Submit"></input>
         </form>
+        <Footer />
         </div>
     );
 }
