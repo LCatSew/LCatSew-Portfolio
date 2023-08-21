@@ -2,7 +2,7 @@ import './App.css';
 import Header from "./components/Header";
 import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
-import MainContent from "./components/MainContent";
+import MainContent from "./components/PortfolioContainer";
 
 function App() {
     return (
@@ -14,3 +14,5 @@ function App() {
         </div>
     );
 }
+
+export default App;
