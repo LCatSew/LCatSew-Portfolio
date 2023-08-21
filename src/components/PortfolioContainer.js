@@ -8,7 +8,7 @@ import AboutPage from "./pages/AboutPage";
 import ResumePage from "./pages/ResumePage";
 import ContactPage from "./pages/ContactPage";
 
-export default function MainContent() {
+export default function PortfolioContainer() {
     const [currentPage, setCurrentPage] = useState("HomePage");
 
     const renderPage = () => {
