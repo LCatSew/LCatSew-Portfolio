@@ -11,8 +11,7 @@ export default function HomePage() {
         <div>
             <Header />
             <Navigation />
-            <MainContent />
-            <Project />
+            
             <Footer />
         </div>
     );

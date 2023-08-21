@@ -31,7 +31,6 @@ export default function MainContent() {
     return (
         <div>
             <Header />
-            {}
             {<Navigation currentPage={currentPage} handlePageChange={handlePageChange} />}
             {renderPage()}
             <Footer />
