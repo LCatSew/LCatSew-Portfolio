@@ -6,7 +6,6 @@ import Footer from "../components/Footer";
 
 export default function ResumePage() {
     <div>
-        <Header />
         <Navigation />
         <h1>Resume</h1>
         <h3> Download my resume <a href="RESUME HERE"><span>here</span></a></h3>

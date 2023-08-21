@@ -7,7 +7,6 @@ import React from "react";
 export default function Contact() {
     return (
         <div>
-             <Header />
             <Navigation />
         <h1>Contact</h1>
         <form className="contact-form" action="submit">
