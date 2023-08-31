@@ -1,6 +1,5 @@
 import React from "react";
 
-
 function Navigation({currentPage, handlePageChange}) {
     return (
         <nav className="navbar navbar-expand-lg" id="navigation">

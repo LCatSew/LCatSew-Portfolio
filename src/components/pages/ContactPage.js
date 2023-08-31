@@ -1,8 +1,6 @@
 import React from "react";
-
-// import Header from "../Header";
-// import Navigation from "../Navigation";
-// import Footer from "../Footer";
+import Navigation from "../Navigation";
+import Footer from "../Footer";
 
 export default function Contact() {
     return (
@@ -16,6 +14,8 @@ export default function Contact() {
             <input type="text" id="lname" name="lastname" placeholder="Your last name.."></input>
             <label for="phone">Phone Number</label>
             <input type="text" id="phone" name="phone" placeholder="Your phone number.."></input>
+            <label for="url">Website/LinkedIn</label>
+            <input type="url" id="url" name="url" placeholder="Your website or LinkedIn account.."></input>
             <label for="email">Email</label>
             <input type="text" id="email" name="email" placeholder="Your email.."></input>
             <label for="subject">Subject</label>
